@@ -1,0 +1,10 @@
+[
+  {
+    "base_code": "USD",
+    "monto": 50.0,
+    "target_code": "PEN",
+    "conversion_rate": 3.7248,
+    "conversion_result": 186.24,
+    "fechaHora": "2024-10-10 02:27:36"
+  }
+]
