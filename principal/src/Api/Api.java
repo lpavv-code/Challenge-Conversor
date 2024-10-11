@@ -12,7 +12,7 @@ import java.net.http.HttpResponse;
 
 public class Api {
   private final String url = "https://v6.exchangerate-api.com/v6/";
-  private final String clave = "3de02cda6a1b79660e1276ad";
+  private final String clave = "5e315c511d92a96c19b248fd";
 
   public String generarUrlApi() {
     return url + clave;
